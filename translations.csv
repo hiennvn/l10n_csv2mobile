@@ -1,0 +1,6 @@
+Key,Source,en-US,da-DK,de-DE,fr-FR,it-IT,nb-NO,pl-PL,sv-SE
+Absence,Absence,Absence,Fravær,Abwesenheit,Absence,Assenza,Fravær,Nieobecność,Frånvaro
+Accept,Accept,Accept,Acceptér,Bestätigen,Accepter,Accetta,Godta,Zaakceptuj,Acceptera
+Account,Account,Account,Konto,Konto,Compte,Conto,Konto,Konto,Konto
+DeleteItemName,"Delete '%$1s'","Delete '%$1s'","Slet '%$1s'","löschen '%$1s'","Supprimer '%$1s'","Delete '%$1s'","Slett '%$1s'","Usuń '%$1s'","Radera '%$1s'"
+EmailTrail,"\n\n--------------------------------------------------------------\n%$1s, %$2s %$3s:\n\n%$4s","\n\n--------------------------------------------------------------\n%$1s, %$2s %$3s:\n\n%$4s",,,,,,,
